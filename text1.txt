@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 alfred v2 modifs
+=======
+<<<<<<< HEAD
+Ewen
+Alfred
+>>>>>>> refs/remotes/origin/main
+>>>>>>> refs/remotes/origin/main
